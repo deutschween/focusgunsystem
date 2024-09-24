@@ -1,7 +1,18 @@
 # Edited Focus Gun System
-## This is a EDITED version of Focus Gun System
+### Edited Focus Gun System
 
-# Currently Released Versions
+
+
+
+
+Roblox gun system.
+
+
+
+
+
+
+### Currently Released Versions
 
 | Version | Released           |
 | ------- | ------------------ |
